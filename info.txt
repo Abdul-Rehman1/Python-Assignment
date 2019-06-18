@@ -1,0 +1,6 @@
+MyData={
+  "Name" : "Abdul Rehman",
+  "Rollnum" : "AIC007948",
+  "institute" : "Saylani Head Office",
+  "Timing" : "9:00am-12:00pm"  
+}
